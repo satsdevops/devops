@@ -1,3 +1,14 @@
+
+void MasterCode
+{
+   printf(" Master code ");
+   printf(" Master code ");
+   printf(" Master code ");
+   printf(" Master code ");
+   printf(" Master code ");
+}
+
+
 void main()
 {
    printf(" test code");
