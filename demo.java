@@ -6,6 +6,14 @@ void MasterCode
    s.o.print(" Master code")
 }
 
+void BranchCode
+{
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+}
+
 
 class Demo
 {
