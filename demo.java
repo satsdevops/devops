@@ -1,3 +1,12 @@
+void BranchCode
+{
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+   s.o.print(" Branch code");
+}
+
+
 class Demo
 {
   void getData()
